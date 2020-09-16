@@ -1,4 +1,4 @@
-module parallelcore-restful-client-sdk-go
+module github.com/digital-transaction/parallelcore-restful-client-sdk-go
 
 go 1.15
 
